@@ -1,0 +1,52 @@
+.navbar {
+	border-radius: 0;
+}
+#gallery {
+	padding: 1.1em 0 1.1em 0;
+}
+.gallery1 {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+@media only screen and (max-width: 1440px) {
+	.navbar-right {
+		margin: 0.3em 0 0 3em !important;
+	}
+}
+
+.nav > li {
+	border-style: solid;
+	padding: 5.8px;
+	border-color: #edeaea;
+}
+
+#link-page {
+	text-align: center;
+	display: block;
+}
+
+.clear-image {
+	margin-bottom: 40px;
+}
+
+.btn-artikel {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+.btn-artikel:hover {
+	color: #ff7300;
+}
+
+.btn-left {
+	float: left;
+}
+
+.btn-right {
+	float: right;
+}
+
+.margin-bottom {
+	margin: 0 2.5px 25px 2.5px;
+}
